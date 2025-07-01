@@ -96,9 +96,5 @@ Model: The Qwen2.5-VL-7B-Instruct model is loaded with 4-bit quantization for ef
 Input Directory: Ensure the dataset directory exists and contains valid input files.
 Error Handling: Unsupported file formats are skipped with a warning message.
 
-Contributing
-Contributions are welcome! Please submit a pull request or open an issue for suggestions or bug reports.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-Contact
-For questions or support, please open an issue on GitHub or contact [your-email@example.com].
+
+
